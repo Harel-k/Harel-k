@@ -27,8 +27,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Harel_k&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Logo]([https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy5tciIXaRH2d6PC6pP5_zK8hzcCdF8Bq1SQ&s))
-
 <!-- Snake Game -->
 <div align="center">
   
